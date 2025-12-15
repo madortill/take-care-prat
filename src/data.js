@@ -23,7 +23,7 @@ export const topics = [
     cards: [
       {
         id: 1,
-        title: "https://placehold.co/400x250",
+        title: "https://placehold.coנסנגס/400x250",
         text: "זהו טקסט הכרטיסיה הראשונה",
       },
       {
